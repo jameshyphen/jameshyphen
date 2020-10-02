@@ -6,7 +6,7 @@
 
 - Contact me at: `james.hyphen@gmail.com`
 
-<img alt="@jameshyphen Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jameshyphen&theme=synthwave&show_icons=true&hide_border=true" />
+<img alt="@jameshyphen Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jameshyphen&theme=react&show_icons=true&hide_border=true" />
 
 
 ### Spotify
