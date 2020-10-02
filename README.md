@@ -10,4 +10,4 @@
 
 
 ### Spotify
-[![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/1167279602?si=tkoW4okiT5CWDAEUjwpwtQ)
+[![Spotify](https://jameshyphen-spotify-now-playing.vercel.app/api/spotify-playing)](https://open.spotify.com/user/1167279602?si=tkoW4okiT5CWDAEUjwpwtQ)
