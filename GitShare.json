@@ -4,6 +4,16 @@
             "image": "https://miro.medium.com/max/1200/1*mk1-6aYaf_Bes1E3Imhc0A.jpeg",
             "title": "Breaking news about Star wars",
             "description": "Apparently, yoga is hella cute. Well. The young one anyways."
+        },
+        {
+            "image": "https://miro.medium.com/max/10000/0*hPVHCGVgepguJt8I",
+            "title": "Wall-e",
+            "description": "My favorite robot from when I was younger!."
+        },
+        {
+            "image": "https://ichef.bbci.co.uk/news/976/cpsprodpb/41CF/production/_109474861_angrycat-index-getty3-3.jpg",
+            "title": "Angry cats",
+            "description": "Sometimes a cat do be angry."
         }
     ]
 }
